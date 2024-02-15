@@ -2,7 +2,6 @@
 /configuration.php
 /index.php
 /tmp/*
-/images/*
 /plugins/*
 /modules/*
 /media/*
@@ -15,19 +14,12 @@
 /layouts/*
 /libraries/*
 /logs/
-/files/*
-/language/*
 /.idea/*
 /LICENSE.txt
 /README.txt
-/google0b0a5fead93f6b3b.html
 /htaccess.txt
-/yandex_540735783ed6d134.html
 /web.config.txt
 /robots.txt.dist
-/robots.txt
-/BingSiteAuth.xml
 /ads.txt
-/sitemap.xml
 
 
